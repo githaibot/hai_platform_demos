@@ -1,1 +1,1 @@
-demos for haiplatform
+demos for hai-platform
